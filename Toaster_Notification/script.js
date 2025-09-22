@@ -20,3 +20,6 @@ toaster("Download Compeleted")
 setTimeout(() =>{
     toaster("Harshal accepted your request")
 },2000);
+setTimeout(() =>{
+    toaster("Payment done...!")
+},2000);
